@@ -11,8 +11,8 @@ import webbrowser
 print('\033[1;31m Wait Please ...')
 time.sleep(3)
 os.system('clear')
-os.system('xdg-open https://cutt.us/mocode')
-webbrowser.open('https://cutt.us/mocode')
+os.system('xdg-open https://t.me/mo_code')
+webbrowser.open('https://t.me/mo_code')
 #Banner
 print('''
 \033[1;35m
